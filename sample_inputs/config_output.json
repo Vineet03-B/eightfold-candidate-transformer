@@ -1,0 +1,33 @@
+{
+  "full_name": "Priya Sharma",
+  "primary_email": "priya.sharma@gmail.com",
+  "phone": "+919876543210",
+  "city": "Bengaluru",
+  "country": "IN",
+  "headline": "Senior Software Engineer @ Infosys | Python | Django | AWS",
+  "years_experience": 5.0,
+  "skills": [
+    "Python",
+    "Django",
+    "Rest Apis",
+    "PostgreSQL",
+    "AWS",
+    "Docker",
+    "Linux",
+    "Git",
+    "Agile",
+    "Kubernetes",
+    "Rest Apis",
+    "SQL",
+    "Fastapi",
+    "MySQL",
+    "Redis",
+    "GraphQL",
+    "Microservices",
+    "GitHub",
+    "Ci/Cd"
+  ],
+  "linkedin_url": "https://linkedin.com/in/priyasharma",
+  "github_url": "https://github.com/priyasharma",
+  "overall_confidence": 1.0
+}

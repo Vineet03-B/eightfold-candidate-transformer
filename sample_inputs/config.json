@@ -1,0 +1,17 @@
+{
+  "fields": [
+    { "path": "full_name", "type": "string", "required": true },
+    { "path": "emails[0]", "from": "primary_email", "type": "string", "required": true },
+    { "path": "phones[0]", "from": "phone", "type": "string", "normalize": "E164" },
+    { "path": "location.city", "from": "city", "type": "string" },
+    { "path": "location.country", "from": "country", "type": "string" },
+    { "path": "headline", "type": "string" },
+    { "path": "years_experience", "type": "number" },
+    { "path": "skills[].name", "from": "skills", "type": "string[]", "normalize": "canonical" },
+    { "path": "links.linkedin", "from": "linkedin_url", "type": "string" },
+    { "path": "links.github", "from": "github_url", "type": "string" }
+  ],
+  "include_confidence": true,
+  "include_provenance": false,
+  "on_missing": "null"
+}

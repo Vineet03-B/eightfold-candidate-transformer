@@ -1,0 +1,43 @@
+{
+  "applicant_name": "Priya Sharma",
+  "email_addresses": ["priya.sharma@gmail.com", "priya@infosys.com"],
+  "phone_numbers": ["9876543210"],
+  "location": "Bengaluru, KA, India",
+  "current_title": "Senior Software Engineer",
+  "years_experience": 5,
+  "linkedin_url": "https://linkedin.com/in/priyasharma",
+  "github_url": "https://github.com/priyasharma",
+  "competencies": [
+    {"name": "Python"},
+    {"name": "Django"},
+    {"name": "PostgreSQL"},
+    {"name": "AWS"},
+    {"name": "Docker"},
+    {"name": "Kubernetes"},
+    {"name": "REST APIs"}
+  ],
+  "work_history": [
+    {
+      "employer": "Infosys",
+      "position": "Senior Software Engineer",
+      "start_date": "January 2022",
+      "end_date": null,
+      "description": "Led backend API development for a recruitment platform serving 10M+ users."
+    },
+    {
+      "employer": "TCS",
+      "position": "Software Engineer",
+      "start_date": "June 2019",
+      "end_date": "December 2021",
+      "description": "Developed microservices in Python/Django."
+    }
+  ],
+  "education_history": [
+    {
+      "school": "BMS College of Engineering",
+      "degree": "B.E.",
+      "field_of_study": "Computer Science",
+      "graduation_year": 2019
+    }
+  ]
+}

@@ -1,0 +1,261 @@
+{
+  "candidate_id": "cand_d1b335152948",
+  "full_name": "Priya Sharma",
+  "emails": [
+    "priya.sharma@gmail.com",
+    "priya@infosys.com"
+  ],
+  "phones": [
+    "+919876543210"
+  ],
+  "location": {
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "IN"
+  },
+  "links": {
+    "linkedin": "https://linkedin.com/in/priyasharma",
+    "github": "https://github.com/priyasharma"
+  },
+  "headline": "Senior Software Engineer @ Infosys | Python | Django | AWS",
+  "years_experience": 5.0,
+  "skills": [
+    {
+      "name": "Python",
+      "confidence": 0.8,
+      "sources": [
+        "linkedin",
+        "ats",
+        "csv",
+        "text_match"
+      ]
+    },
+    {
+      "name": "Django",
+      "confidence": 0.8,
+      "sources": [
+        "linkedin",
+        "ats",
+        "csv",
+        "text_match"
+      ]
+    },
+    {
+      "name": "Rest Apis",
+      "confidence": 0.8,
+      "sources": [
+        "linkedin",
+        "ats",
+        "text_match"
+      ]
+    },
+    {
+      "name": "PostgreSQL",
+      "confidence": 0.8,
+      "sources": [
+        "linkedin",
+        "ats",
+        "text_match"
+      ]
+    },
+    {
+      "name": "AWS",
+      "confidence": 0.8,
+      "sources": [
+        "linkedin",
+        "ats",
+        "text_match"
+      ]
+    },
+    {
+      "name": "Docker",
+      "confidence": 0.8,
+      "sources": [
+        "linkedin",
+        "ats",
+        "csv",
+        "text_match"
+      ]
+    },
+    {
+      "name": "Linux",
+      "confidence": 0.8,
+      "sources": [
+        "linkedin",
+        "text_match"
+      ]
+    },
+    {
+      "name": "Git",
+      "confidence": 0.8,
+      "sources": [
+        "linkedin",
+        "text_match"
+      ]
+    },
+    {
+      "name": "Agile",
+      "confidence": 0.8,
+      "sources": [
+        "linkedin",
+        "text_match"
+      ]
+    },
+    {
+      "name": "Kubernetes",
+      "confidence": 0.75,
+      "sources": [
+        "ats",
+        "text_match"
+      ]
+    },
+    {
+      "name": "REST APIs",
+      "confidence": 0.7,
+      "sources": [
+        "csv"
+      ]
+    },
+    {
+      "name": "SQL",
+      "confidence": 0.7,
+      "sources": [
+        "csv"
+      ]
+    },
+    {
+      "name": "Fastapi",
+      "confidence": 0.6,
+      "sources": [
+        "text_match"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "confidence": 0.6,
+      "sources": [
+        "text_match"
+      ]
+    },
+    {
+      "name": "Redis",
+      "confidence": 0.6,
+      "sources": [
+        "text_match"
+      ]
+    },
+    {
+      "name": "GraphQL",
+      "confidence": 0.6,
+      "sources": [
+        "text_match"
+      ]
+    },
+    {
+      "name": "Microservices",
+      "confidence": 0.6,
+      "sources": [
+        "text_match"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "confidence": 0.6,
+      "sources": [
+        "text_match"
+      ]
+    },
+    {
+      "name": "Ci/Cd",
+      "confidence": 0.6,
+      "sources": [
+        "text_match"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Infosys",
+      "title": "Senior Software Engineer",
+      "start": "2022-01",
+      "end": null,
+      "summary": "Backend API development for recruitment platform."
+    },
+    {
+      "company": "TCS",
+      "title": "Software Engineer",
+      "start": "2019-06",
+      "end": "2021-12",
+      "summary": "Microservices architecture with Python."
+    },
+    {
+      "company": "APIs. Expertise in Python, Django, PostgreSQL, AWS, and Docker.\n\nEXPERIENCE\nInfosys",
+      "title": "Senior Software Engineer",
+      "start": "2022-01",
+      "end": null,
+      "summary": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "BMS College of Engineering",
+      "degree": "B.E.",
+      "field": "Computer Science Engineering",
+      "end_year": 2019
+    },
+    {
+      "institution": "",
+      "degree": "B.E.",
+      "field": "",
+      "end_year": null
+    }
+  ],
+  "provenance": {
+    "full_name": {
+      "source": "linkedin",
+      "method": "highest_priority"
+    },
+    "headline": {
+      "source": "linkedin",
+      "method": "highest_priority"
+    },
+    "years_experience": {
+      "source": "ats_json",
+      "method": "highest_priority"
+    },
+    "emails": {
+      "source": "merged",
+      "method": "union_dedup"
+    },
+    "phones": {
+      "source": "merged",
+      "method": "e164_dedup"
+    },
+    "location": {
+      "source": "linkedin",
+      "method": "highest_priority"
+    },
+    "links": {
+      "source": "merged",
+      "method": "union_by_key"
+    },
+    "skills": {
+      "source": "merged",
+      "method": "canonical_union_max_confidence"
+    },
+    "experience": {
+      "source": "merged",
+      "method": "dedup_by_company_title"
+    },
+    "education": {
+      "source": "merged",
+      "method": "dedup_by_institution_degree"
+    },
+    "candidate_id": {
+      "source": "system",
+      "method": "sha256_of_primary_email"
+    }
+  },
+  "overall_confidence": 1.0,
+  "_extraction_errors": []
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Priya Sharma",
+  "email": "priya.sharma@gmail.com",
+  "profile_url": "https://linkedin.com/in/priyasharma",
+  "headline": "Senior Software Engineer @ Infosys | Python | Django | AWS",
+  "location": "Bengaluru, Karnataka, India",
+  "skills": ["Python", "Django", "REST APIs", "PostgreSQL", "AWS", "Docker", "Linux", "Git", "Agile"],
+  "experience": [
+    {
+      "company": "Infosys",
+      "title": "Senior Software Engineer",
+      "start": "January 2022",
+      "end": null,
+      "description": "Backend API development for recruitment platform."
+    },
+    {
+      "company": "TCS",
+      "title": "Software Engineer",
+      "start": "June 2019",
+      "end": "December 2021",
+      "description": "Microservices architecture with Python."
+    }
+  ],
+  "education": [
+    {
+      "school": "BMS College of Engineering",
+      "degree": "B.E.",
+      "field": "Computer Science Engineering",
+      "end_year": 2019
+    }
+  ]
+}

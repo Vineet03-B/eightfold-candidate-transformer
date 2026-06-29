@@ -1,0 +1,22 @@
+Priya Sharma
+priya.sharma@gmail.com | +91-9876543210 | linkedin.com/in/priyasharma | github.com/priyasharma
+Bengaluru, Karnataka
+
+SUMMARY
+Backend Engineer with 5+ years building scalable APIs. Expertise in Python, Django, PostgreSQL, AWS, and Docker.
+
+EXPERIENCE
+Infosys | Senior Software Engineer | January 2022 to Present
+- Led API development for recruitment platform (10M+ users)
+- Reduced latency by 40% via caching (Redis) and query optimization
+- Mentored 4 junior engineers
+
+TCS | Software Engineer | June 2019 to December 2021
+- Built microservices with Python/Django and REST APIs
+- Deployed on AWS ECS with Docker
+
+EDUCATION
+BMS College of Engineering — B.E. Computer Science Engineering (2019)
+
+SKILLS
+Python, Django, FastAPI, PostgreSQL, MySQL, Redis, AWS, Docker, Kubernetes, Linux, Git, REST APIs, GraphQL, CI/CD, Agile
